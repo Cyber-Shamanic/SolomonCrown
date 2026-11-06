@@ -1,0 +1,28 @@
+/* Original, individually generated raster art — SolomonCrown v0.0.2 */
+window.SCAssets = [
+  {file:'sticker-crown.png',source:'0de31a88',kind:'סטיקרים',name:'כתר המלכות',note:'כתר זהב ואבן ספיר · הדר וענווה',glow:'#d5adfb'},
+  {file:'sticker-scales.png',source:'6c2d75c0',kind:'סטיקרים',name:'מאזני המשפט',note:'איזון, אמת ואחריות',glow:'#ffe0a6'},
+  {file:'sticker-scroll.png',source:'35c3d130',kind:'סטיקרים',name:'מגילת החכמה',note:'אותיות, לימוד וכתיבה',glow:'#c5a0ff'},
+  {file:'sticker-heart.png',source:'8504cfd6',kind:'סטיקרים',name:'לב שומע',note:'אהבה, הקשבה וחסד',glow:'#ff7d9b'},
+  {file:'sticker-temple.png',source:'a355ccab',kind:'סטיקרים',name:'שער המקדש',note:'בניין, תפילה ומורשת',glow:'#ffc978'},
+  {file:'sticker-hourglass.png',source:'a054f3e1',kind:'סטיקרים',name:'שעון הזמן',note:'חכמת העתים והמתינות',glow:'#aa9aff'},
+  {file:'sticker-dove.png',source:'4289ac6d',kind:'סטיקרים',name:'יונת השלום',note:'פיוס ושלווה',glow:'#ffe8c0'},
+  {file:'sticker-signet.png',source:'13337ec9',kind:'סטיקרים',name:'חותם המלך',note:'אחריות למילה ולהבטחה',glow:'#7faaff'},
+  {file:'sticker-harvest.png',source:'33d413bb',kind:'סטיקרים',name:'שפע הארץ',note:'פרי העמל והודיה',glow:'#ffab68'},
+  {file:'sticker-lantern.png',source:'8a48c313',kind:'סטיקרים',name:'נר התבונה',note:'אור של ידיעה ועיון',glow:'#a7ceff'},
+  {file:'logo-royal.png',source:'3a61be45',kind:'לוגואים',name:'כתר עיטור מלכותי',note:'סמל זהב־ארגמן ראשי',glow:'#cca1ff'},
+  {file:'logo-scroll.png',source:'c3ca7b2f',kind:'לוגואים',name:'כתר הספר',note:'חכמה על גבי ספר פתוח',glow:'#eac58a'},
+  {file:'logo-peace.png',source:'925092a5',kind:'לוגואים',name:'כתר השלום',note:'יונה וזריחת אור',glow:'#d8d0ff'},
+  {file:'icon-royal.png',source:'4728b0b1',kind:'אייקונים',name:'אייקון האתר',note:'סמל favicon ויישומון',glow:'#bd8bff'},
+  {file:'icon-crown-facets.png',source:'1e67365c',kind:'אייקונים',name:'כתר גאומטרי',note:'כתר זוויתי לשערים',glow:'#91baff'},
+  {file:'icon-ring-engraved.png',source:'5723612b',kind:'אייקונים',name:'טבעת מעוטרת',note:'סמל לטבעת במסורת',glow:'#e3c17b'},
+  {file:'icon-column.png',source:'ab396856',kind:'אייקונים',name:'עמוד המקדש',note:'אדריכלות, אבן וזהב',glow:'#ffca86'},
+  {file:'icon-signet-alt.png',source:'bfe57aa3',kind:'אייקונים',name:'טבעת חותם ספיר',note:'וריאציית תכשיט',glow:'#a7bdff'},
+  {file:'frame-card-royal.png',source:'3f96d143',kind:'מסגרות',name:'מסגרת קלף המלך',note:'מסגרת סימטרית לאיור אנכי',glow:'#c2a0ff'},
+  {file:'frame-banner-thin.png',source:'2ab277c8',kind:'מסגרות',name:'מסגרת כותרת דקה',note:'מסגרת רחבה לכותרות',glow:'#ffdcac'},
+  {file:'banner-parchment.png',source:'0057a6bc',kind:'באנרים',name:'מגילת הכותרת',note:'באנר קלף פתוח',glow:'#efd4ac'},
+  {file:'banner-purple.png',source:'9e1a9124',kind:'באנרים',name:'באנר ארגמן',note:'קטיפה מלכותית זהובה',glow:'#c093ff'},
+  {file:'button-gold.png',source:'b04c54c4',kind:'כפתורים',name:'כפתור זהב',note:'משטח לחצנים מעוטר',glow:'#ffd78a'},
+  {file:'button-lapis.png',source:'e7ffed91',kind:'כפתורים',name:'כפתור ספיר',note:'משטח כחול מלכותי',glow:'#8fb8ff'},
+  {file:'background-parchment.png',source:'bc1bc75c',kind:'רקעים',name:'קלף עתיק',note:'רקע טקסטורה ללא כיתוב',glow:'#f9dca0'}
+];
